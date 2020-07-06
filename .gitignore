@@ -1,0 +1,8 @@
+# Dependency directory
+node_modules/
+
+#files
+package-lock.json
+app.bundle.js
+vendor.bundle.js
+
